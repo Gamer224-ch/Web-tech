@@ -1,0 +1,13 @@
+.fondo-arduino {
+    background-image: url('https://arduino.cl/wp-content/uploads/2019/07/arduino_logo_1200x630-01.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.fondo-cableado {
+    background-image: url('https://images.techstreet.com/coverart/0/7/6/2592076.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
